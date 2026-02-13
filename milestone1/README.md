@@ -1,14 +1,12 @@
 # Milestone 1 – Secure User Authentication System
 
-## 📌 Project Title
+## Project Title
 TextMorph – Advanced Text Summarization and Paraphrasing
 
-## 🎓 Internship
+## Internship
 Infosys Springboard Internship 6.0 – Batch 13
 
----
-
-## 🧾 Description
+## Description
 
 In Milestone 1, a secure User Authentication System was developed using Streamlit, JWT (JSON Web Token), and SQLite database.
 
@@ -16,11 +14,9 @@ This authentication module serves as the foundation for the TextMorph project an
 
 The system ensures secure user registration, login authentication, dashboard access control, and password recovery using security questions.
 
----
+##  Features Implemented
 
-## 🚀 Features Implemented
-
-### 1️⃣ User Signup
+### 1️. User Signup
 - Username validation
 - Email format validation
 - Alphanumeric password validation (minimum 8 characters)
@@ -29,32 +25,30 @@ The system ensures secure user registration, login authentication, dashboard acc
 - Security answer storage
 - JWT token generation after successful signup
 
-### 2️⃣ Secure Login
+### 2️. Secure Login
 - Email verification
 - Password verification
 - JWT-based session management
 - Dashboard redirection after successful login
 
-### 3️⃣ Dashboard
+### 3️. Dashboard
 - Welcome message with username
 - Sidebar with navigation
 - Logout functionality
 - Protected route using JWT validation
 
-### 4️⃣ Forgot Password Flow
+### 4️. Forgot Password Flow
 - Email verification
 - Display stored security question
 - Security answer validation
 - Secure password reset functionality
 
-### 5️⃣ JWT Authentication
+### 5️. JWT Authentication
 - Token generation using HS256 algorithm
 - Expiration-based token validation
 - Automatic session expiry handling
 
----
-
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -62,9 +56,7 @@ The system ensures secure user registration, login authentication, dashboard acc
 - SQLite Database
 - Regular Expressions (Email Validation)
 
----
-
-## 🗄️ Database Structure
+##  Database Structure
 
 ```sql
 CREATE TABLE users (
