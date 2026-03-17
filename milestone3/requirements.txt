@@ -1,0 +1,16 @@
+streamlit
+psycopg2-binary
+bcrypt
+pyjwt
+python-dotenv
+pyngrok
+watchdog
+nltk
+textstat
+plotly
+streamlit-option-menu
+PyPDF2
+transformers
+torch
+pandas
+numpy
