@@ -1,0 +1,7 @@
+streamlit
+pyngrok
+python-jose
+bcrypt
+passlib
+email-validator
+sqlite3
