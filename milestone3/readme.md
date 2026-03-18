@@ -177,20 +177,24 @@ Frontend
 # Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img width="1909" height="1009" alt="login" src="https://github.com/user-attachments/assets/a4f360eb-76af-4072-8fa0-43d84a6eb66b" />
 
 
 ### Readability Dashboard
-![Readability](screenshots/readability.png)
+<img width="1919" height="1021" alt="readability" src="https://github.com/user-attachments/assets/2ce0c54b-b9c9-4891-87bb-11507c48bf98" />
+
 
 ### Summarizer
-![Summarizer](screenshots/summarize.png)
+<img width="1912" height="1001" alt="summarize" src="https://github.com/user-attachments/assets/4556cc6b-f83d-4b6f-b839-4cbda48a9336" />
+
 
 ### Augmnet
-![Augmnet](screenshots/augmnet.png)
+<img width="1912" height="1004" alt="augment" src="https://github.com/user-attachments/assets/ed09e0ca-c874-48d4-b130-6430f6fd5f79" />
+
 
 ### History
-![History](screenshots/history.png)
+<img width="1919" height="1018" alt="history" src="https://github.com/user-attachments/assets/ef81aae5-1a8a-4b30-b652-0600ab66ec7b" />
+
 
 # Conclusion
 
