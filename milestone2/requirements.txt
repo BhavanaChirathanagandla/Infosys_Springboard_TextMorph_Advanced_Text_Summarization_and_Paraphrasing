@@ -1,0 +1,6 @@
+nltk
+spacy
+textstat
+scikit-learn
+pandas
+numpy
