@@ -80,13 +80,14 @@ Millions of people struggle to understand complex written content. Manual simpli
 - Feedback monitoring  
 - Global search system  
 - Full audit logs  
-
+- Lock/Unlock
 ---
 
 ## 🧩 Architecture
 Monolithic deployment with secure database and ML model integration  
 
 📌 Architecture Diagram 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 20, 2026, 11_52_42 AM" src="https://github.com/user-attachments/assets/274e7a75-10b7-4fc2-9324-21442ffda73f" />
 
 📌 ER Diagram – *To be added*  
 
@@ -107,36 +108,16 @@ Monolithic deployment with secure database and ML model integration
 
 ## 🤖 Models Used
 
-| Model | Purpose |
-|------|--------|
-| Pegasus | Summarization |
-| BART | Summarization & rewriting |
-| FLAN-T5 | Paraphrasing |
-| NLTK | Readability scoring |
+| Model / Tool | Purpose                                                                        |
+| ------------ | ------------------------------------------------------------------------------ |
+| Pegasus      | Abstractive text summarization (especially long documents, news articles)      |
+| BART         | Text summarization, rewriting, and text generation (denoising autoencoder)     |
+| FLAN-T5      | Paraphrasing, question answering, translation, and instruction-based NLP tasks |
+| NLTK         | Text preprocessing (tokenization, stemming, POS tagging, etc.)                 |
+| textstat     | Readability scoring (Flesch Reading Ease, Grade Level, etc.)                   |
 
 ---
 
-## ⚙️ Installation & Setup
-
-### Prerequisites
-- Python 3.10+
-- Git
-- (Optional) Docker
-
- 📥 Installation Steps
-1. Clone the Repository
-Download the project from the provided repository link
-Navigate into the project directory (TextMorph)
-2. Install Requirements
-Install all required dependencies listed in the project
-Ensures smooth execution of the application
-3. Environment Configuration
-Create a .env file in the root directory and add the following:
-JWT_SECRET_KEY → Secret key for authentication
-SMTP_EMAIL → Email used for sending notifications
-SMTP_PASS → Password or app password for the email
-Run Application
-streamlit run app.py
 📝 Usage Guide
 
  1.Register / Login
@@ -151,8 +132,9 @@ streamlit run app.py
 <img width="1896" height="848" alt="Screenshot 2026-03-18 161301" src="https://github.com/user-attachments/assets/81ba33d1-e48e-4abc-a09c-7d0b35f8fcef" />
 6.Save & rate output
 <img width="1895" height="890" alt="Screenshot 2026-03-18 161328" src="https://github.com/user-attachments/assets/3edb9b6d-1770-45b6-976e-eee1f3e9fb3c" />
-7.Admins can view analytics
+7.History
 <img width="1905" height="896" alt="Screenshot 2026-03-18 162301" src="https://github.com/user-attachments/assets/d812c2b3-7f2b-4401-8b90-32c2b03a0763" />
+
 📊 Datasets & Evaluation
 Used for testing and model improvement:
 Dataset
@@ -183,7 +165,7 @@ Readability Delta
 <img width="1895" height="890" alt="Screenshot 2026-03-18 161328" src="https://github.com/user-attachments/assets/f35b5ba9-0337-4c87-b8da-143b532512b0" />
 5.History
 <img width="1880" height="891" alt="Screenshot 2026-03-18 164710" src="https://github.com/user-attachments/assets/5bf437c9-aa31-442c-a727-119b6474d5e9" />
-6. Admin Dashboard
+6.Admin Dashboard
 <img width="1914" height="963" alt="Screenshot 2026-03-20 125927" src="https://github.com/user-attachments/assets/35b3c0a7-3b35-4a90-bf28-234dc4d4c34d" />
 <img width="1910" height="624" alt="Screenshot 2026-03-20 125944" src="https://github.com/user-attachments/assets/cfa257a4-dfe1-4021-b5ea-3f35f68e28da" />
 <img width="1890" height="673" alt="Screenshot 2026-03-20 125956" src="https://github.com/user-attachments/assets/84638d61-45a5-4105-92ae-f1d652d774b2" />
