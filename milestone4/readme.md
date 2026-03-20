@@ -93,15 +93,12 @@ print(public_url)
 
 ---
 
-## 📸 Screenshots
-(Add screenshots here)
-
-- Login Page  
-- Dashboard  
-- Text Input Page  
-- Summarization Output  
-- Paraphrasing Output  
+## 📸 Screenshots 
 - Admin Dashboard  
+<img width="1914" height="963" alt="Screenshot 2026-03-20 125927" src="https://github.com/user-attachments/assets/1af71fb5-14de-4161-86c9-5ee9e339b519" />
+<img width="1910" height="624" alt="Screenshot 2026-03-20 125944" src="https://github.com/user-attachments/assets/575612f7-7583-40b4-88d0-d215881ba03e" />
+<img width="1890" height="673" alt="Screenshot 2026-03-20 125956" src="https://github.com/user-attachments/assets/52f05c29-01b0-490e-8ec2-40b6c0cfff92" />
+<img width="1918" height="969" alt="Screenshot 2026-03-20 130014" src="https://github.com/user-attachments/assets/aee5d5f4-b4cd-4eef-8239-58dc3dc99bc2" />
 
 ---
 
@@ -111,23 +108,3 @@ print(public_url)
 - Mobile app  
 - Browser extension  
 - Real-time collaboration  
-
----
-
-## 📁 Files Included
-- Milestone4_FinalIntegration.ipynb  
-- app.py  
-- requirements.txt  
-- README.md  
-
----
-
-## 📜 Conclusion
-Milestone 4 successfully integrates all components into a unified system, providing a complete AI-powered text processing application with a user-friendly interface and admin controls.
-
----
-
-## 🔗 Notes
-- Run using Google Colab  
-- Ngrok is used for public access  
-- Remove auth tokens before uploading to GitHub  
