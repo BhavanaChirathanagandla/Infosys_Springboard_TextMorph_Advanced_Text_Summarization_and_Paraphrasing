@@ -87,9 +87,7 @@ Millions of people struggle to understand complex written content. Manual simpli
 Monolithic deployment with secure database and ML model integration  
 
 📌 Architecture Diagram 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 20, 2026, 11_52_42 AM" src="https://github.com/user-attachments/assets/274e7a75-10b7-4fc2-9324-21442ffda73f" />
-
-📌 ER Diagram – *To be added*  
+<img width="1024" height="1536" alt="ChatGPT Image Mar 23, 2026, 08_14_41 AM" src="https://github.com/user-attachments/assets/73bfb727-8c50-4c1d-98b2-2f9f2fd42e52" />
 
 ---
 
@@ -178,4 +176,4 @@ Readability Delta
 | 1. Ch. Bhavana    | Project Lead         | Project design, coordination, and deployment, UI/UX |
 | 2. K. Akshara       | ML Engineer          | Model tuning, optimization, and evaluation | 
 | 3. A. Lavanya       | Backend Developer    | API development and database management    | 
-| 4. Nijam Raja  | Full Stack Developer | Built the entire application, AI integration | 
+| 4. N. Raja  | Full Stack Developer | Built the entire application, AI integration | 
