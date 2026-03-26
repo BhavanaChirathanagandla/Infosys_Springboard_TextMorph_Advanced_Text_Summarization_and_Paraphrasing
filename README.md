@@ -125,7 +125,7 @@ Monolithic deployment with secure database and ML model integration
 3.Select feature (summarization/paraphrasing)
 <img width="1909" height="886" alt="Screenshot 2026-03-18 160645" src="https://github.com/user-attachments/assets/3fdce1f2-beaf-4e69-85fb-0f3700252e88" />
 4.Adjust settings
-<img width="1908" height="838" alt="Screenshot 2026-03-18 161226" src="https://github.com/user-attachments/assets/0b625cdb-ccf1-45c3-9d0e-de0d443e37ad" />
+<img width="1917" height="959" alt="Screenshot 2026-03-23 102005" src="https://github.com/user-attachments/assets/2e77174a-4a15-4c8d-89b8-efc15e0f8b7a" />
 5.Generate result
 <img width="1896" height="848" alt="Screenshot 2026-03-18 161301" src="https://github.com/user-attachments/assets/81ba33d1-e48e-4abc-a09c-7d0b35f8fcef" />
 6.Save & rate output
