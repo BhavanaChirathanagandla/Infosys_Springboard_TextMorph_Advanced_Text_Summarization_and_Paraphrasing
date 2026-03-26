@@ -127,7 +127,7 @@ Monolithic deployment with secure database and ML model integration
 4.Adjust settings
 <img width="1917" height="959" alt="Screenshot 2026-03-23 102005" src="https://github.com/user-attachments/assets/2e77174a-4a15-4c8d-89b8-efc15e0f8b7a" />
 5.Generate result
-<img width="1896" height="848" alt="Screenshot 2026-03-18 161301" src="https://github.com/user-attachments/assets/81ba33d1-e48e-4abc-a09c-7d0b35f8fcef" />
+<img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/a901818d-0b24-459a-aca3-d1820286f59d" />
 6.Save & rate output
 <img width="1895" height="890" alt="Screenshot 2026-03-18 161328" src="https://github.com/user-attachments/assets/3edb9b6d-1770-45b6-976e-eee1f3e9fb3c" />
 7.History
