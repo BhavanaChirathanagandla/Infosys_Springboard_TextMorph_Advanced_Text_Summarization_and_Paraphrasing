@@ -129,7 +129,7 @@ Monolithic deployment with secure database and ML model integration
 5.Generate result
 <img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/a901818d-0b24-459a-aca3-d1820286f59d" />
 6.History
-<img width="1905" height="896" alt="Screenshot 2026-03-18 162301" src="https://github.com/user-attachments/assets/d812c2b3-7f2b-4401-8b90-32c2b03a0763" />
+<img width="1911" height="960" alt="image" src="https://github.com/user-attachments/assets/7592ea85-3b14-4c68-9c20-db8c687ea680" />
 
 📊 Datasets & Evaluation
 Used for testing and model improvement:
